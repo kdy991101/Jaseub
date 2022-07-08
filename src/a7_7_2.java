@@ -17,7 +17,7 @@ public class a7_7_2 {
 		}else 
 			System.out.println("value는 2의 배수입니다.");
 		
-//		/fsdfdsf
+		
 		}
 
 }
